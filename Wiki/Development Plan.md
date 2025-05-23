@@ -1,12 +1,21 @@
-- [[#Towns & Guilds]]
-- [[#Player Skills]]
-- [[#PokéDungeons]]
-- [[#Dungeons]]
-- [[#NPC Quests]]
-- [[#FTB Quests]]
-- [[#Seasonal Pokémon League]]
-- [[#Custom Mods & Content]]
-- [[#Dynamic Events]]
+# Modified Cobblemon Development Plan
+This document houses our offical development roadmap for modified cobblemon, which will include many of our custom/exclusive features for our server & the rest of the modified cobblemon modpack suite*.
+Credits to @ZeroroMoki & [ImpavidEh](https://github.com/jakerzzz)
+
+
+## 	I N D E X
+- [[#Towns & Guilds](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#towns--guilds)]
+- [[#T&G Key Concepts]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#glossary)
+- [[#Player Skills]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#player-skills)
+- [[#PokéDungeons]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#pok%C3%A9dungeons)
+- [[#Dungeons]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#dungeons)
+- [[#NPC Quests]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#npc-quests)
+- [[#FTB Quests]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#ftb-quests)
+- [[#Dynamic Events]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#dynamic-events)
+- [[#Seasonal Pokémon League]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#seasonal-pok%C3%A9mon-league)
+- [[#Custom Mods & Content]](https://github.com/ModifiedMC/Cobblemon/edit/main/Wiki/Development%20Plan.md#custom-mods--content)
+
+---
 
 # Towns & Guilds
 
