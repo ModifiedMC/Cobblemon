@@ -12,7 +12,7 @@ https://bloom.modifiedmc.com
 ---
 
 Jump to a Version: 
-- [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
+- [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
 ---
 
 # [v1.7.0]
@@ -692,5 +692,87 @@ This update brings **performance improvements, bug fixes, new quests**, and **be
 - JEI (replaced with EMI & TMRV)
 - Bad optimizations
 
+---
 
-[Jump to Top]
+# [v1.1.0] 
+### Update Notes:
+
+NEOFORGE VERSION IS NOW 21.1.128
+
+CREATE MOD IS FINALLY HERE!
+
+- Lots of fixes to crashes, thanks to everyone who made reports!
+- Removed some unnecessary/buggy mods for better performance & stability.
+- Added Questbook to the starterkit again. Apologies for the confusion!
+- Tons of fixes to Cobblemon Pokenav, Radical Cobblemon Trainers.
+- Fixed searching / retrieving items from the Creative menu.
+- Fixes regarding structure overlap thanks to Structure Essentials.
+- Fixed crash with shaders rendering with certain cpus.
+- Lots of fixes for Immersive Engineering, Mekanism, AE2, & Industrial foregoing!
+- Disabled Pokemon from being able to be captured with EasyMobFarm tools.
+- More fixes thanks to the Ars Nouveau team. Fixed crashes, dupes, & fps issues.
+- OBYG Fixed biome tagging, fixing cobblemon spawns / adding more variety to the pool by default. 
+- Removed all JS/Script mods again until Latdev releases v7.2; custom scripts and more content is planned, but we need a more stable version to play nicely with Cobblemon!
+
+
+
+### ADDED
+- CREATE
+- Parcool
+- Voice Chat
+- EmoteCraft
+- PKGBadges
+- Cobblemon Utility+
+- Aggro Indicator
+- Default Options
+- MEED
+- Modern World Creation
+- Nolijium
+- Storage Labels
+
+### REMOVED
+- Amendments, Advancement Frames (causing issues)
+- Swapped back Embeddium for Sodium again (as per Create devs)
+- Monocle (not needed)
+- Sinytra Connector, Connector Extras
+- Better Modslist
+- Dark Mode Everywhere
+- Shoulder Surfing Reloaded
+- Almanac Lib
+- BHMenu Integration Mod
+- Waterframes, Watermedia
+- InControl
+- MoreCulling
+- KubeJS, ProbeJS, MoreJS, LootJS, PortalJS (until Latdev releases v7.2; custom scripts and more content planned, but we need a more stable version to play nicely with Cobblemon)
+- KubeJS Mekanism, Occultism KubeJS
+- Dynamic Crosshair
+- Polymorph
+- Resistance Balancer
+- TheSplashMilk
+
+
+
+
+# [v1.0.0] 
+
+- First version of OVERCLOCKED Modpack
+
+### Update Notes:
+
+-Made it so the starter command can be ran by players, regardless of OP status.
+-Disabled Item Zoom by default, use shift+z to toggle.
+-Fixed category name in starter GUI.
+
+---
+
+IF UPDATING FROM MODIFIED COBBLEMON PLUS v10 & lower:
+
+!Important! NEW WORLD IS REQUIRED! - You can bring over your cobblemon data from within the world&gt;data folder (Bring over cobblemonplayerdata, & pokemon folders)
+This will bring over your PC & Party pokemon, but you will need to use an external tool like World Edit if you want to bring over your base from your previous world.
+Apologies for any inconveniences this may cause, but it is necessary due to all of the fixes to the pack.
+
+---
+
+
+
+### [[Jump to Top]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#modified-cobblemon-plus---master-changelog)
