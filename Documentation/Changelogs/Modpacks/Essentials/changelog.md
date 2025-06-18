@@ -18,7 +18,7 @@ Jump to a Version:
 
 ---
 
-# [v1.2.0] - 18-06-2025
+# [v1.2.0] - Huge Balancing changes & Complete Quest Overhual - 18-06-2025
 
 ## Performance & Stability
 
