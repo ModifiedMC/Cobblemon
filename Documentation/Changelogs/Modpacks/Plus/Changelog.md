@@ -18,6 +18,8 @@ Jump to a Version:
 # [v11.7.0]
 -  Huge Balancing Changes & Complete Quest Overhual - [18-06-2025]
 
+NEOFORGE VERSION IS NOW 21.1.180
+
 ## Performance & Stability
 
 * **Crash & Performance Fixes:** Addressed several underlying issues that were causing client crashes and poor pack performance for a more stable playing experience.
@@ -696,5 +698,231 @@ This update brings **performance improvements, bug fixes, new quests**, and **be
 - Proximity Chat
 - JEI (replaced with EMI & TMRV)
 - Bad optimizations
+
+---
+
+# [v11.1.0]
+
+
+NEOFORGE VERSION IS NOW 21.1.128
+
+CREATE MOD IS FINALLY HERE!
+
+- Much better performance & stability!
+- Lots of fixes to crashes, thanks to everyone who made reports!
+
+
+### ADDED
+- CREATE
+- Parcool
+- Voice Chat
+- EmoteCraft
+- PKGBadges
+- Cobblemon Utility+
+
+### REMOVED
+- Advancement Frames
+- Amendments
+- Monocle (not needed)
+- Sinytra Connector, Connector Extras
+- Better Modslist
+- Dark Mode Everywhere
+- Shoulder Surfing Reloaded
+- Almanac Lib
+- BHMenu Integration Mod
+- Waterframes, Watermedia
+- InControl
+- Perception
+- MoreCulling
+- Swapped back Embeddium for Sodium again (as per Create devs)
+- KubeJS, ProbeJS, MoreJS, LootJS, PortalJS 
+-- (until Latdev releases v7.2; custom scripts and more content planned, but we need a more stable version to play nicely with Cobblemon)
+
+
+
+
+# [v11.0.3]
+
+NEOFORGE VERSION IS NOW 21.1.123
+
+- Added Questbook to the starterkit again. Apologies for the confusion!
+- Removed fabric mods again until they are tagged for use with neo/sinytra.
+- Disabled Pokemon from being able to be captured with EasyMobFarm tools.
+- Fixed issues with hostile mob spawning, reset InControl values.
+- Removed Hotkey overlapping with shift+walking backwards.
+- Fixed crash with shaders rendering with certain cpus.
+- Lots of fixes for Immersive Engineering!
+
+
+### ADDED
+
+- Advancement Frames
+- Aggro Indicator
+- Default Options
+- Embeddium
+- MEED
+- Monocle (REVERT IRIS TO .8.1)
+- Modern World Creation
+- Nolijium
+- Portal JS
+- Probe JS
+- Storage Labels
+
+
+### REMOVED
+
+- Dynamic Crosshair
+- Polymorph
+- Resistance Balancer
+- TheSplashMilk
+- Sodium & Addons (Reese's Options, Dynamic Lights, Options Mod Compat, Options API, Extras, Path Blocks)
+- FABRIC MODS: Pokeblocks, Better Stats Screen & API
+
+# [v11.0.2]
+
+NEOFORGE VERSION IS NOW 21.1.122
+
+
+-Tons of fixes to Cobblemon Pokenav
+-Fixed searching / retrieving items from the Creative menu.
+-Fixes regarding structure overlap thanks to Structure Essentials.
+-More fixes thanks to the Ars Nouveau team. Fixed crashes, dupes, & fps issues.
+-CobbleTowns: adds randomly generated minecraft villages based on towns from the Pokémon franchise.
+-OBYG Fixed biome tagging, fixing cobblemon spawns / adding more variety to the pool by default. 
+--More changes/tweaks will be coming, feedback on the current rates would be greatly appreciated [in discord](https://discord.gg/WMWDbNgj7K)!
+
+
+### ADDED
+
+-DATAPACKS: CobbleTowns (Adds more Pokemon Villages!) 
+-FABRIC MODS (via Sinytra): Pokeblocks, Better Stats Screen & API
+
+
+# [v11.0.1]
+
+-Made it so the starter command can be ran by players, regardless of OP status.
+-Disabled Item Zoom by default, use shift+z to toggle.
+-Fixed category name in starter GUI.
+
+# [v11.0.0]
+
+NEOFORGE VERSION IS NOW 21.1.121
+
+!Important! NEW WORLD IS REQUIRED! - You can bring over your cobblemon data from within the world>data folder (Bring over cobblemonplayerdata, & pokemon folders)
+This will bring over your PC & Party pokemon, but you will need to use an external tool like World Edit if you want to bring over your base from your previous world.
+Apologies for any inconviences this may cause, but it is necessary due to all of the fixes to the pack.
+
+If you play with lots of tech mods, check out the new Modified Cobblemon: OVERCLOCKED modpack!
+
+- Quest overhaul! You must now choose your starter after finishing the "Getting Started" Page.
+- Added Many suggested mods, Removed some overlap. There is tons more Deco, QOL, & More! The pack is overall more balanced now.
+- Moved all tech mods to "Modified Cobblemon: OVERCLOCKED" Modpack as they are not super server friendly.. Although It should be fine running servers around 10 players.
+- Decided to remove Applied Energistics ahead of refined storage 2 release. We still have Toms Simple Storage, Functional Drawers (Storage Drawers w/ Addons) & Sophisticated Storage (Similar to Iron Chests w/ upgrades!)
+
+- Fixed issues with Map Icons.
+- Map is now hid during battle.
+- Fixed unbound keys causing Log Spam.
+- Fixed issues with TMs Crashing dedicated servers.
+- Fixed many issues with Radical Cobblemon Trainers.
+- Fixed crashes with the pokedex / when displaying certain mon animations.
+- Fixed enchantments, fixing loot, enchant tables, & applying books via anvil.
+- Fixed lots of issues with worldgen, requiring a new world to use any update past v11.
+
+- First Version of Modified Cobblemon Additional Spawns Resource/Datapack! - Thanks to all contributors!
+
+### ADDED:
+
+- Amendments
+- Apotheosis
+- Armourer's Workshop
+- Better Compatibility Checker
+- Better With Minecolonies
+- Byzantine Styles Pack for Minecolonies
+- CFM: Circuit Breaker
+- Cobblemon Capture Exp
+- Cobblemon Integrations
+- Cobbredding
+- Darkcap
+- Darkdeath
+- Easy Mob Farm
+- Elytra Physics
+- Elytra Slot
+- Fast Paintings
+- Flux Networks
+- Forgified Fabric API
+- Improved Village Placement
+- Iron Ender Chest
+- Iron Gems & Jewelry
+- Irons RPG Tweaks
+- JEArchaeology
+- JEProfessions
+- JEResources
+- JEED
+- Keybind Bundles
+- Light Overlay
+- Luke's Crazy Trial Chambers
+- Minecolonies
+- Moonlight Lib
+- Mr. Crayfish's Furniture
+- OBWG
+- Pack Analytics
+- Player Trade
+- Polytone
+- Powah
+- Pretty Pipes
+- Pyrotechnic Elytra
+- SimpleTMs
+- Sinytra
+- Sounds
+- Structurify
+- Supplementaries
+- Target Dummy
+- The Splash Milk
+- Tomtaru's Cobblemon FD Tweaks
+- Tomtaru's Cobblemon IE Tweaks
+- Trade Uses
+- Variants & Ventures
+- Wavey Capes
+- Welcome Screen
+- Xtones Reworked
+
+- Fabric Mods: Better Stats Screen, API & Pokeblocks (cobblemon plushes & deco)
+
+### REMOVED:
+
+- AE2
+- AE2 Crafting Tree
+- AE2 Import Export Card
+- AE2 Network Analyzer
+- AE2 Wireless Terminals
+- Advanced AE
+- All the Compat
+- All the Compressed
+- Applied Flux
+- Applied Mekanistics
+- Ars Energistique
+- Ars Unification
+- Carry On
+- Chunk Sending
+- Cobblemon TM (Replaced)
+- Cristel Lib
+- EMI & Addons
+- Emojiful
+- Ender IO
+- Extended AE
+- Hostile Neural Networks
+- Industrial Foregoing
+- Industrial Foregoing Souls
+- Just Dire Things
+- Mekanism
+- Mekanism Generators
+- Mekanism Tools
+- Smart Completion
+- Smooth Chunk Save
+- Sound Physics Remastered
+- Terralith
+- Tom's Simple Storage
+- Towns and Towers
+- WWEE
 
 ### [Jump to the Top]
