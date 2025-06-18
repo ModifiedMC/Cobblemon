@@ -439,7 +439,7 @@ This update brings a variety of fixes, performance improvements, updated datapac
 
 ---
 
-# [v11.3.0]
+# [v1.3.0]
 ### The Mega Market Update
 
 **NEOFORGE VERSION IS NOW 21.1.141**
@@ -519,7 +519,7 @@ This update brings a variety of fixes, performance improvements, updated datapac
 
 ---
 
-# [v11.2.2]
+# [v1.2.2]
 
 ## What's New?
 This update brings **performance improvements, bug fixes, new quests**, and **better sound management**! We've also **removed several mods** based on community feedback and technical issues while planning for future optimizations.
@@ -558,7 +558,7 @@ This update brings **performance improvements, bug fixes, new quests**, and **be
 ---
 
 
-# [v11.2.1]
+# [v1.2.1]
 
 ## Bug Fixes & Quality of Life
 - Fixed a **server crash** related to the **Relics mod**.
@@ -597,7 +597,7 @@ This update brings **performance improvements, bug fixes, new quests**, and **be
 - **Structurify**
 
 
-# [v11.2.0]
+# [v1.2.0]
 
 ### NEOFORGE IS NOW v21.1.133
 
