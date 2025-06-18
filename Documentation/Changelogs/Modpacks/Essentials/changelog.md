@@ -168,6 +168,10 @@ Quest Shop Updates & Lots more quests in the "Champions League" - Made it much m
 
 - The first modpack in the Modified Cobblemon Series / lineup of modpacks.
 
+---
+
+### [Jump to the Top](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#modified-cobblemon-essentials---master-changelog)
+
 - Similar to the popular Modified Cobblemon: PLUS, but with 200 less mods, its a tailored vanilla+ Experience with cobblemon!
 
 - A great introduction to modded minecraft & cobblemon mod!
