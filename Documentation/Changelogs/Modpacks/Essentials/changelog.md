@@ -12,9 +12,9 @@ https://bloom.modifiedmc.com
 ---
 
 Jump to a Version: 
-- [v1.2.0], 
-- [v1.1.2], [v1.1.1], [v1.1.0]
-- [v1.0.2], [v1.0.1], [v1.0.0]
+- [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v120), 
+- [[v1.1.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v112), [[v1.1.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v111), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v110)
+- [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
 
