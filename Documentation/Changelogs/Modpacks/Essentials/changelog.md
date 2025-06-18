@@ -18,7 +18,8 @@ Jump to a Version:
 
 ---
 
-# [v1.2.0] - Huge Balancing changes & Complete Quest Overhual - 18-06-2025
+# [v1.2.0]
+-  Huge Balancing Changes & Complete Quest Overhual - [18-06-2025]
 
 ## Performance & Stability
 
@@ -75,13 +76,15 @@ This update introduces a **complete overhaul of the questing system**, with over
 
 ---
 
-# **[v1.1.2]** Hotfix
+# [v1.1.2]
+### Hotfix
 
    - Fixed Data Sync / registry error on join
 
  ---
 
-# **[v1.1.1]** Expanding on the previous update
+# [v1.1.1]
+### Expanding on the previous update
 
 NEOFORGE VERSION IS NOW 1.21.172
 
@@ -118,7 +121,8 @@ NEOFORGE VERSION IS NOW 1.21.172
 
 ---
 
-# **[v1.1.0]** Quest Additions & Crucial Pack Fixes!
+# [v1.1.0]
+### Quest Additions & Crucial Pack Fixes!
 
 ## **⚙️ Core Changes & Fixes**
 
@@ -146,18 +150,21 @@ Quest Shop Updates & Lots more quests in the "Champions League" - Made it much m
 
 ---
 
-# v1.0.2 - more fixes
+# [v1.0.2]
+### more fixes
 
 - added trainer quests to help more with progression map
 - added fallingtree (tree feller for early game, there is still Ultimine)
 - added darksleep (sleep percentage)
 - removed simplevoicechat
 
-# v1.0.1 - fixes
+# [v1.0.1] 
+### fixes
 
 - permission fixes for starter / rct
 
-# v1.0.0 - First NeoForge Release
+# [v1.0.0] 
+### First NeoForge Release
 
 - The first modpack in the Modified Cobblemon Series / lineup of modpacks.
 
