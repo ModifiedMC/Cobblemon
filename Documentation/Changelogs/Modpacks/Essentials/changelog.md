@@ -20,6 +20,7 @@ Jump to a Version:
 
 # [v1.2.0]
 -  Huge Balancing Changes & Complete Quest Overhual - [18-06-2025]
+### NEOFORGE VERSION IS NOW 21.1.180
 
 ## Performance & Stability
 
@@ -27,6 +28,11 @@ Jump to a Version:
 * **Tons of mods up to date:** Over 100 mods in the modpack received an update. Notable ones being Create with lots of bug fixes for its new systems, Tectonic with various worldgen improvements, & a ton of the cobbemon sidemods included in this pack.
 * **Default Settings Adjustment:** To ensure a smoother initial experience for all players, Shaders and Distant Horizons are now **disabled by default**. Players are encouraged to enable and configure these in their settings menu. Distant Horizons settings are particularly hardware-dependent, so please tweak them carefully to match your system's capabilities (e.g., offloading to GPU or CPU).
 * **Optimized Mob Spawning:** Overhauled the InControl mob limits for nearly every entity in the game. These new caps limit the number of non-essential mobs that can spawn per player, significantly improving performance and prioritizing the spawning of Cobblemon.
+
+## Economy & Balancing
+
+* **New Currency Streams:** With the massive influx of new quests, there are now more ways than ever to earn Pokedollars, rewarding both casual players and dedicated completionists.
+* **Master Ball Rebalance:** To reflect the new economic balance and maintain their legendary status, Master Balls now have a trade-in value of **2500 Pokedollars**.
 
 ## The Great Quest Overhaul!
 
@@ -69,10 +75,7 @@ This update introduces a **complete overhaul of the questing system**, with over
 * **New Mounting System:** You can now easily mount your Pokémon directly from the Cobblemon interaction wheel (Shift + Right-Click your lead Pokémon).
 * **Texture Fixes:** Numerous texture issues have been resolved.
 
-## Economy & Balancing
 
-* **New Currency Streams:** With the massive influx of new quests, there are now more ways than ever to earn Pokedollars, rewarding both casual players and dedicated completionists.
-* **Master Ball Rebalance:** To reflect the new economic balance and maintain their legendary status, Master Balls now have a trade-in value of **2500 Pokedollars**.
 
 ---
 
