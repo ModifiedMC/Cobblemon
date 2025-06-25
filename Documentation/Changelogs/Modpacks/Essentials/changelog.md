@@ -28,6 +28,7 @@ Jump to a Version:
 * **More Quest Updates!** Fixed a few broken quests, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items.
 * **Tweaks for Mob spawn Limits** Fixed a few unintention blocks for certain hostile mobs, adding back functionality to vanilla spawners.
 * **More ways to earn coins!** Several hostile mobs now properly drop Relic Coins as intended. Remember 10 relic coins = 1 Pokedollar, 100 Pokedollars = 1 Master Token!
+* **More ways to convert currency:** Added several recipes so you can convert between the piles and blocks of coins to the items as initially intended.
 
   
 ## ADDED MODS
