@@ -23,6 +23,7 @@ Jump to a Version:
 ### NEOFORGE VERSION IS NOW 21.1.183
 
 ## Summary of Changes
+* **Various Bug Fixes:** Fixed many issues relating to all the reported bugs (Death/grave issues, crashing, and other server disconnects)
 * **More mob filtering options:** Torchmaster's Functionality to block cobblemon spawns replaced with new Repel item so Torchmaster now only works for hostile mobs.
 * **EMI Compat added back to RS:** But be warned there are performance issues when displaying the tooltips for items in the RS system.
 * **More Quest Updates!** Fixed a few broken quests, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items.
