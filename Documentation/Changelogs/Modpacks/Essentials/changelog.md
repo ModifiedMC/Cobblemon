@@ -34,6 +34,7 @@ Jump to a Version:
 - [Cobblemon Repel](https://www.curseforge.com/minecraft/mc-mods/cobblemon-max-repel) - Adds a few types of repels to block trainer and cobblemon spawns as needed.
 - EMI RS Compat - Adds back the compat between EMI and Refined Storage 2
 - [Scribble](https://www.curseforge.com/minecraft/mc-mods/scribble) - Book & Qwill QOL improvements
+- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords) - Adds more varied weapons, currently only available as random quest loot from the "Mob Hunter" Tab. (**NOTE: **There is a known bug accessing your SS items from your Refined Storage Systems, please use alternative storage methods for these items.)
 
 ## REMOVED MODS
 - Torchmaster Cobblemon Compat
@@ -97,6 +98,7 @@ This update introduces a **complete overhaul of the questing system**, with over
 * **Balanced Spawn Pools:** The Cobblemon spawn pools have been rebalanced for a more diverse and engaging world.
 * **Expanded Ride List:** Added many more Pokémon to the list of rideable mounts.
 * **New Mounting System:** You can now easily mount your Pokémon directly from the Cobblemon interaction wheel (Shift + Right-Click your lead Pokémon).
+* **Spawn Notification Changes** - There is now a Journeymap waypoint shared to chat when certain tags of cobblemon spawn. (Legendaries, Mythical, Paradox, Ultra Beasts, Starters, & Shinies by default)
 * **Texture Fixes:** Numerous texture issues have been resolved.
 
 
