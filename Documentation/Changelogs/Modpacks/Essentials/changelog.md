@@ -12,9 +12,31 @@ https://bloom.modifiedmc.com
 ---
 
 Jump to a Version: 
-- [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v120), 
+- [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v120), [[v1.2.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v121)
 - [[v1.1.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v112), [[v1.1.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v111), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v110)
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
+
+---
+
+# [v1.2.1]
+- Crucial Bugfixes & Tweaks based on your feedback - [25-06-2025]
+### NEOFORGE VERSION IS NOW 21.1.183
+
+## Summary of Changes
+* **More mob filtering options:** Torchmaster's Functionality to block cobblemon spawns replaced with new Repel item so Torchmaster now only works for hostile mobs.
+* **EMI Compat added back to RS:** But be warned there are performance issues when displaying the tooltips for items in the RS system.
+* **More Quest Updates!** Fixed a few broken quests, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items.
+* **Tweaks for Mob spawn Limits** Fixed a few unintention blocks for certain hostile mobs, adding back functionality to vanilla spawners.
+
+  
+## ADDED MODS
+- [Cobblemon Repel](https://www.curseforge.com/minecraft/mc-mods/cobblemon-max-repel) - Adds a few types of repels to block trainer and cobblemon spawns as needed.
+- EMI RS Compat - Adds back the compat between EMI and Refined Storage 2
+- [Scribble](https://www.curseforge.com/minecraft/mc-mods/scribble) - Book & Qwill QOL improvements
+
+## REMOVED MODS
+- Torchmaster Cobblemon Compat
+- Nerunia (Ticking Entity Fixer)
 
 ---
 
@@ -33,6 +55,7 @@ Jump to a Version:
 
 * **New Currency Streams:** With the massive influx of new quests, there are now more ways than ever to earn Pokedollars, rewarding both casual players and dedicated completionists.
 * **Master Ball Rebalance:** To reflect the new economic balance and maintain their legendary status, Master Balls now have a trade-in value of **2500 Pokedollars**.
+* **Gotta Catch Em All!"** So Dex completion is a posibilty, players can now store up to 1500 Pokemon, 50 pages total now!
 
 ## The Great Quest Overhaul!
 
