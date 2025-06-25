@@ -27,6 +27,7 @@ Jump to a Version:
 * **EMI Compat added back to RS:** But be warned there are performance issues when displaying the tooltips for items in the RS system.
 * **More Quest Updates!** Fixed a few broken quests, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items.
 * **Tweaks for Mob spawn Limits** Fixed a few unintention blocks for certain hostile mobs, adding back functionality to vanilla spawners.
+* **More ways to earn coins!** Several hostile mobs now properly drop Relic Coins as intended. Remember 10 relic coins = 1 Pokedollar, 100 Pokedollars = 1 Master Token!
 
   
 ## ADDED MODS
