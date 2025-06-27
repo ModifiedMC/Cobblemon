@@ -12,7 +12,34 @@ https://bloom.modifiedmc.com
 ---
 
 Jump to a Version: 
-- [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+- [[v1.7.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v171), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+---
+
+# [v1.7.1]
+- Crucial Bugfixes & Tweaks based on your feedback - [26-06-2025]
+### NEOFORGE VERSION IS NOW 21.1.183
+
+## Summary of Changes
+* **Various Bug Fixes:** Fixed many issues relating to all the reported bugs (Death/grave issues, crashing, and other server disconnects)
+* **More Ways to collect Em All!** - Breeding 2 dittos together now grants a random pokemon egg. (_Legendary/Mythical/UltraBeast/Paradox/etc excluded._)
+* **More mob filtering options:** Torchmaster's Functionality to block cobblemon spawns replaced with **new Repel item** so Torchmaster now only works for hostile mobs.
+* **EMI Compat added back to RS:** But be warned there are performance issues when displaying the tooltips for items in the RS system.
+* **More Quest Updates!** Fixed a few broken quests, added Simply Swords Chapter & Rewards to various other chapters, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items!
+* **Tweaks for Mob spawn Limits** Fixed a few unintention blocks for certain hostile mobs, adding back functionality to vanilla spawners.
+* **More ways to earn coins!** Several hostile mobs now properly drop Relic Coins as intended. Remember 10 relic coins = 1 Pokedollar, 100 Pokedollars = 1 Master Token!
+* **More ways to convert currency:** Added several recipes so you can convert between the piles and blocks of pokedollars/mtokens
+
+  
+## ADDED MODS
+- [Cobblemon Repel](https://www.curseforge.com/minecraft/mc-mods/cobblemon-max-repel) - Adds a few types of repels to block trainer and cobblemon spawns as needed.
+- EMI RS Compat - Adds back the compat between EMI and Refined Storage 2
+- [Scribble](https://www.curseforge.com/minecraft/mc-mods/scribble) - Book & Qwill QOL improvements
+- [Simply Swords](https://www.curseforge.com/minecraft/mc-mods/simply-swords) - Adds more varied weapons, currently only available as random quest loot from the "Mob Hunter" Tab. (**NOTE: **There is a known bug accessing your SS items from your Refined Storage Systems, please use alternative storage methods for these items.)
+
+## REMOVED MODS
+- Torchmaster Cobblemon Compat
+- Nerunia (Ticking Entity Fixer)
+
 ---
 
 # [v1.7.0]
