@@ -19,17 +19,18 @@ Jump to a Version:
 ---
 
 # [v1.2.1]
-- Crucial Bugfixes & Tweaks based on your feedback - [25-06-2025]
+- Crucial Bugfixes & Tweaks based on your feedback - [26-06-2025]
 ### NEOFORGE VERSION IS NOW 21.1.183
 
 ## Summary of Changes
 * **Various Bug Fixes:** Fixed many issues relating to all the reported bugs (Death/grave issues, crashing, and other server disconnects)
-* **More mob filtering options:** Torchmaster's Functionality to block cobblemon spawns replaced with new Repel item so Torchmaster now only works for hostile mobs.
+* **More Ways to collect Em All!** - Breeding 2 dittos together now grants a random pokemon egg. (_Legendary/Mythical/UltraBeast/Paradox/etc excluded._)
+* **More mob filtering options:** Torchmaster's Functionality to block cobblemon spawns replaced with **new Repel item** so Torchmaster now only works for hostile mobs.
 * **EMI Compat added back to RS:** But be warned there are performance issues when displaying the tooltips for items in the RS system.
-* **More Quest Updates!** Fixed a few broken quests, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items.
+* **More Quest Updates!** Fixed a few broken quests, added Simply Swords Chapter & Rewards to various other chapters, and added even more quests further explaining some core cobblemon functions like the alternate forms, and other important items!
 * **Tweaks for Mob spawn Limits** Fixed a few unintention blocks for certain hostile mobs, adding back functionality to vanilla spawners.
 * **More ways to earn coins!** Several hostile mobs now properly drop Relic Coins as intended. Remember 10 relic coins = 1 Pokedollar, 100 Pokedollars = 1 Master Token!
-* **More ways to convert currency:** Added several recipes so you can convert between the piles and blocks of coins to the items as initially intended.
+* **More ways to convert currency:** Added several recipes so you can convert between the piles and blocks of pokedollars/mtokens
 
   
 ## ADDED MODS
