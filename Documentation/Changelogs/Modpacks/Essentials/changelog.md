@@ -18,6 +18,16 @@ Jump to a Version:
 
 ---
 
+# [v1.2.2]
+More fixes, Villagers now follow you if you're holding an emerald block!
+### NEOFORGE VERSION IS NOW 21.1.186
+
+* Fixed some issues with EMI/JEI not loading recipes properly, fixed some mod compatibilty.
+* Villagers will now follow you if you're holding a Emerald Block, Similar to how animals follow with wheat/carrots/etc.
+* **CarryOn now blocks ALL entities except for Chests, Furnaces, & Spawners** as too many mob entities were causing issues. More blocks/tile entities may be added in the near future. Be sure to suggest some in the [Feedback section of the discord](https://discord.gg/WMWDbNgj7K) if you feel like I missed anything that should be moveable.
+
+---
+
 # [v1.2.1]
 - Crucial Bugfixes & Tweaks based on your feedback - [26-06-2025]
 ### NEOFORGE VERSION IS NOW 21.1.183
