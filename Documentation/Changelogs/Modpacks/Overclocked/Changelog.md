@@ -15,6 +15,18 @@ Jump to a Version:
 - [[v1.7.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v171), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
 ---
 
+# [v1.7.2]
+More fixes, Villagers now follow you if you're holding an emerald block!
+### NEOFORGE VERSION IS NOW 21.1.186
+
+* Updated several large mods; including Minecolonies, Armourers Workshop, Supplementaries, etc.
+* Removed all client side mods from the serverpacks. Apologies for the delay on this hotfix!
+* Fixed some issues with EMI/JEI not loading recipes properly, fixed some mod compatibilty.
+* Villagers will now follow you if you're holding a Emerald Block, Similar to how animals follow with wheat/carrots/etc.
+* **CarryOn now blocks ALL entities except for Chests, Furnaces, & Spawners** as too many mob entities were causing issues. More blocks/tile entities may be added in the near future. Be sure to suggest some in the [Feedback section of the discord](https://discord.gg/WMWDbNgj7K) if you feel like I missed anything that should be moveable. **This also includes blocks like barrels, blast furnaces, & other modded chests like the sophisticated storage blocks*
+
+---
+
 # [v1.7.1]
 - Crucial Bugfixes & Tweaks based on your feedback - [26-06-2025]
 ### NEOFORGE VERSION IS NOW 21.1.183
