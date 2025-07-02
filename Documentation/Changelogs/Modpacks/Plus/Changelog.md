@@ -15,6 +15,18 @@ Jump to a Version:
 - [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
 ---
 
+# [v11.7.2]
+More fixes, Villagers now follow you if you're holding an emerald block!
+### NEOFORGE VERSION IS NOW 21.1.186
+
+* Updated several large mods; including Minecolonies, Armourers Workshop, Supplementaries, etc.
+* Removed all client side mods from the serverpacks. Apologies for the delay on this hotfix!
+* Fixed some issues with EMI/JEI not loading recipes properly, fixed some mod compatibilty.
+* Villagers will now follow you if you're holding a Emerald Block, Similar to how animals follow with wheat/carrots/etc.
+* **CarryOn now blocks ALL entities except for Chests, Furnaces, & Spawners** as too many mob entities were causing issues. More blocks/tile entities may be added in the near future. Be sure to suggest some in the [Feedback section of the discord](https://discord.gg/WMWDbNgj7K) if you feel like I missed anything that should be moveable. **This also includes blocks like barrels, blast furnaces, & other modded chests like the sophisticated storage blocks*
+
+---
+
 # [v11.7.1]
 - Crucial Bugfixes & Tweaks based on your feedback - [26-06-2025]
 ### NEOFORGE VERSION IS NOW 21.1.183
