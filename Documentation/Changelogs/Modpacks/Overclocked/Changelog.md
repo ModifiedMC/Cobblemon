@@ -15,6 +15,23 @@ Jump to a Version:
 - [[v1.7.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v171), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
 ---
 
+# [v1.7.4]
+Lots of fixes, mod updates, & new items!
+### NEOFORGE VERSION IS NOW 21.1.191
+
+* Performance improvements, fixes to several crashes, & more!
+* Fixed many scripts, cleaned up code and added some debug logging
+* Updates to several large mods, ie. Mega Showdown huge update/rework, many, many fixes!
+* Fixed more issues with items being hidden from EMI / JEI, also items missing from loottables.
+* Changed journeymap cobblemon icons to [Maxis Pack](https://www.curseforge.com/minecraft/texture-packs/journeymap-cobblemon-icons) - fixed issues with some mons not displaying an icon & not being enabled properly. Recomended scaling is around x1.35
+
+---
+
+# [v1.7.3]
+Archived for bugs.
+
+---
+
 # [v1.7.2]
 More fixes, Villagers now follow you if you're holding an emerald block!
 ### NEOFORGE VERSION IS NOW 21.1.186
