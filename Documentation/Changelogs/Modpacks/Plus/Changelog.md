@@ -15,6 +15,23 @@ Jump to a Version:
 - [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
 ---
 
+# [v11.7.4]
+Lots of fixes, mod updates, & new items!
+### NEOFORGE VERSION IS NOW 21.1.191
+
+* Performance improvements, fixes to several crashes, & more!
+* Fixed many scripts, cleaned up code and added some debug logging
+* Updates to several large mods, ie. Mega Showdown huge update/rework, many, many fixes!
+* Fixed more issues with items being hidden from EMI / JEI, also items missing from loottables.
+* Changed journeymap cobblemon icons to [Maxis Pack](https://www.curseforge.com/minecraft/texture-packs/journeymap-cobblemon-icons) - fixed issues with some mons not displaying an icon & not being enabled properly. Recomended scaling is around x1.35
+
+---
+
+# [v11.7.3]
+Archived for bugs.
+
+----
+
 # [v11.7.2]
 More fixes, Villagers now follow you if you're holding an emerald block!
 ### NEOFORGE VERSION IS NOW 21.1.186
