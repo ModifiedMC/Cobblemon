@@ -17,7 +17,7 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
-# [v1.2.5]
+# [v1.2.6]
 Lots of fixes, mod updates, & new items!
 ### NEOFORGE VERSION IS NOW 21.1.191
 
@@ -29,8 +29,8 @@ Lots of fixes, mod updates, & new items!
 
 
 ---
-# [v1.2.3/4]
-Archived for bugs
+# [v1.2.3-5]
+Archived for bugs / crashing.
 
 ---
 # [v1.2.2]
