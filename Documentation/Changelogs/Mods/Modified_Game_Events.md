@@ -1,3 +1,26 @@
+# Modified Game Events - Master Changelog
+A Mod focused on integrating mods & adding custom items to allow the player control over certain game events.
+
+**Join the Discord:**
+https://discord.gg/tdMWUuwFKB
+
+**Support the Modpack:**
+https://ko-fi.com/modifiedmc
+
+**Need a Server?**
+https://bloom.modifiedmc.com
+
+---
+
+# v0.0.2-beta
+
+- Added all textures modeled by Zeroro
+- Includes textures for the Moon fragments, crescents, and altar block used to make the events happen.
+- Static textures but animated altar will be looked into further, maybe adding geckolib as a dependacy
+
+
+---
+
 ## v.0.0.1-alpha
 
 - First version includes the Basic Moon Event items.
