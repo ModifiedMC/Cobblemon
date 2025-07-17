@@ -1,5 +1,5 @@
 # CobbleBags - Master Changelog
-A Custom backpack mod styled after the pokemon games, with different addons adding compatibility with other mods.
+A Custom backpack mod styled after the pokemon games, with different addons/modules for compatibility with other mods.
 
 **Join the Discord:**
 https://discord.gg/tdMWUuwFKB
