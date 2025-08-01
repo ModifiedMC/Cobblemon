@@ -27,9 +27,10 @@ There is now better tooltips on the Eggs from Cobbreeding, AND tons of PC Enhanc
 
 Tons of updates to existing mods, and Added some more requested mods!
 
-**ADDED** Tool Belt - https://www.curseforge.com/minecraft/mc-mods/tool-belt
-**ADDED** Actually Harvest - https://www.curseforge.com/minecraft/mc-mods/actually-harvest
-**ADDED** MoreCobblemonTweaks - https://www.curseforge.com/minecraft/mc-mods/morecobblemontweaks
+- **ADDED** Tool Belt - https://www.curseforge.com/minecraft/mc-mods/tool-belt
+- **ADDED** Actually Harvest - https://www.curseforge.com/minecraft/mc-mods/actually-harvest
+- **ADDED** MoreCobblemonTweaks - https://www.curseforge.com/minecraft/mc-mods/morecobblemontweaks
+
 
 
 ---
