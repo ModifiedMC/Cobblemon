@@ -17,6 +17,23 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+
+# [v1.2.7]
+Tons of mod updates, fixes to resource loading, and other general modpack improvements
+### NEOFORGE VERSION IS NOW 21.1.197
+
+MoreCobblemonTweaks has finally been updated to recent versions of cobblemon again!
+There is now better tooltips on the Eggs from Cobbreeding, AND tons of PC Enhancements - Show IV/Stats directly in the PC, search and rename your boxes, multiselect to move/release, plus background customization!
+
+Tons of updates to existing mods, and Added some more requested mods!
+
+**ADDED** Tool Belt - https://www.curseforge.com/minecraft/mc-mods/tool-belt
+**ADDED** Actually Harvest - https://www.curseforge.com/minecraft/mc-mods/actually-harvest
+**ADDED** MoreCobblemonTweaks - https://www.curseforge.com/minecraft/mc-mods/morecobblemontweaks
+
+
+---
+ 
 # [v1.2.6]
 Lots of fixes, mod updates, & new items!
 ### NEOFORGE VERSION IS NOW 21.1.191
