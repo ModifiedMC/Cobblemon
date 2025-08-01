@@ -15,6 +15,22 @@ Jump to a Version:
 - [[v1.7.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v171), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
 ---
 
+# [v1.7.7]
+Tons of mod updates, fixes to resource loading, and other general modpack improvements
+### NEOFORGE VERSION IS NOW 21.1.197
+
+MoreCobblemonTweaks has finally been updated to recent versions of cobblemon again!
+There is now better tooltips on the Eggs from Cobbreeding, AND tons of PC Enhancements - Show IV/Stats directly in the PC, search and rename your boxes, multiselect to move/release, plus background customization!
+
+Tons of updates to existing mods, and Added some more requested mods!
+
+**ADDED** Tool Belt - https://www.curseforge.com/minecraft/mc-mods/tool-belt
+**ADDED** Actually Harvest - https://www.curseforge.com/minecraft/mc-mods/actually-harvest
+**ADDED** MoreCobblemonTweaks - https://www.curseforge.com/minecraft/mc-mods/morecobblemontweaks
+**ADDED** Cable Facades - https://www.curseforge.com/minecraft/mc-mods/cable-facades 
+
+---
+
 # [v1.7.6]
 Lots of fixes, mod updates, & new items!
 ### NEOFORGE VERSION IS NOW 21.1.191
