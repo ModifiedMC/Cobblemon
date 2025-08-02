@@ -31,7 +31,8 @@ Also! New recipes for all the AllTheModium Alloys! Huge thanks to Yellow in Disc
 - **ADDED** Tool Belt - https://www.curseforge.com/minecraft/mc-mods/tool-belt
 - **ADDED** Actually Harvest - https://www.curseforge.com/minecraft/mc-mods/actually-harvest
 - **ADDED** MoreCobblemonTweaks - https://www.curseforge.com/minecraft/mc-mods/morecobblemontweaks
-- **ADDED** Cable Facades - https://www.curseforge.com/minecraft/mc-mods/cable-facades 
+- **ADDED** Cable Facades - https://www.curseforge.com/minecraft/mc-mods/cable-facades
+- **ADDED** KubeJS Tweaks - https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks 
 
 ---
 
