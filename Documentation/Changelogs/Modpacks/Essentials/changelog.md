@@ -30,6 +30,7 @@ Tons of updates to existing mods, and Added some more requested mods!
 - **ADDED** Tool Belt - https://www.curseforge.com/minecraft/mc-mods/tool-belt
 - **ADDED** Actually Harvest - https://www.curseforge.com/minecraft/mc-mods/actually-harvest
 - **ADDED** MoreCobblemonTweaks - https://www.curseforge.com/minecraft/mc-mods/morecobblemontweaks
+- **ADDED** KubeJS Tweaks - https://www.curseforge.com/minecraft/mc-mods/kubejs-tweaks
 
 
 
