@@ -17,6 +17,30 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+# [v1.3.0]
+
+CHANGELOG WIP - WILL BE FINISHED BY IMP
+
+### NEOFORGE VERSION IS NOW 21.1.199
+
+- Fixes to Raised / icon alignment
+- Almost Unified made several optimizations and improved load times
+- Fixed a few crashes in both singleplayer and isolated dedicated server issues
+- Lots of crucial mod updates - Refined Storage, Patchouli, TMRV (JEI)
+- Cobblemon Challenge now has support for multibattles!
+  -- /challenge <username> level <level>
+- Fixed issues with certain quests displaying null textures, updated some descriptions.
+- Added Spanish Translation to quests - thanks to @KarritoQchao on discord!
+
+
+- Updated FTBTeams to not allow you to invite or join other players to your team to avoid progress getting reset or sped up unintentionally from other players. You can still "Ally" other teams to allow other players access to your claims.
+- Also added a few default FTBRanks for server owners, default is now 'trainer' - 200 claims / 0 forceloaded, 'VIP' - 500 claims / 1 forceload, And some default staff roles - Helper, Mod, Admin with some useful commands. If server owners want to add more commands to any of the ranks, go into the WORLD > ServerConfig > FTBRanks > and you can see a list of all available commands in the README.txt, copy the desired command you can set it to ':true' (or false to remove access).
+
+
+- Added Create Copycats+ - https://www.curseforge.com/minecraft/mc-mods/copycats
+- Added Create Slice and Dice - https://www.curseforge.com/minecraft/mc-mods/slice-and-dice
+- YellowCore v1 - changes some kubejs for yellow's new datapack
+---
 
 # [v1.2.7]
 Tons of mod updates, fixes to resource loading, and other general modpack improvements
