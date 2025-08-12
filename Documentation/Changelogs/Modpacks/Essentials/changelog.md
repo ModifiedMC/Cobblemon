@@ -20,7 +20,7 @@ Jump to a Version:
 ---
 
 # [v1.3.0]
-- This update should be much more stable then 1.7.x builds, Many large mods got some much needed updates.
+- This update should be much more stable then 1.2.x builds, Many large mods got some much needed updates.
 - Important change to FTB Teams - but this will stop your friends from  resetting your Trainer Levels finally!
 - First translation for quests is now available, (ES_ES) if you want to translate for your language, or to contribute anything else, make a pull request on Github! All modpacks are now finally synced with GH again, or you can make a ticket in discord! ([Join here](https://discord.gg/k4jWHxy2M9))
 
