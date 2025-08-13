@@ -19,6 +19,12 @@ Jump to a Version:
 
 ---
 
+# [v1.3.1]
+- Fixes for quest lang, crash on server startup, and added Immersive Paintings mod.
+- Just a small hotfix, read more important updates below!
+ADDED: [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
+---
+
 # [v1.3.0]
 - This update should be much more stable then 1.2.x builds, Many large mods got some much needed updates.
 - Important change to FTB Teams - but this will stop your friends from  resetting your Trainer Levels finally!
