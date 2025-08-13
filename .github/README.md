@@ -1,6 +1,8 @@
 ## Modified Cobblemon!
 
-MC Essentials - https://legacy.curseforge.com/minecraft/modpacks/modified-cobblemon
+MC Core - https://legacy.curseforge.com/minecraft/modpacks/modified-cobblemon
+
+MC Essentials - https://legacy.curseforge.com/minecraft/modpacks/cobblemon-essentials
 
 MC Plus - https://legacy.curseforge.com/minecraft/modpacks/modified-cobblemon-plus
 
