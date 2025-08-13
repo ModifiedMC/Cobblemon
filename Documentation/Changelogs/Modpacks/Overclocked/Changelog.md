@@ -17,7 +17,8 @@ Jump to a Version:
 
 # [v1.8.1]
 - Fixes for quest lang, crash on server startup, ensured icon alignment fix is applied.
-- Just a small hotfix, read more important updates below!
+- Added poke-resizing items to the modified exchange, also yellowcore is now a mod not a datapack.
+- Just a small hotfix, added some missing mods from previous versions -- read more important updates below!
 
 ---
 
