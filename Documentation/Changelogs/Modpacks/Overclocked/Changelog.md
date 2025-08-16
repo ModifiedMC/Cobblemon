@@ -12,7 +12,22 @@ https://bloom.modifiedmc.com
 ---
 
 Jump to a Version: 
-- [[v1.7.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v171), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+- [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+---
+
+# [v1.8.2]
+### NEOFORGE VERSION IS NOW 21.1.200
+- Some more fixes for minecolonies & refined storage, removed raised, and added some missing mods from other modified cobblemon modpacks.  
+
+### ADDED MODS
+- [Chunk Sending](https://www.curseforge.com/minecraft/mc-mods/chunk-sending-forge-fabric)
+- [Metal Barrels](https://www.curseforge.com/minecraft/mc-mods/metal-barrels)
+- [Wither Spawn Animation](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation)
+- [YUNGs Better Mineshafts](https://www.curseforge.com/minecraft/mc-mods/yungs-better-mineshafts-forge)
+
+### REMOVED MODS
+- Raised
+  
 ---
 
 # [v1.8.1]
@@ -45,7 +60,7 @@ Summary of bug fixes:
 - Also added a few default FTBRanks for server owners, default is now 'trainer' - 200 claims / 0 forceloaded, 'VIP' - 500 claims / 1 forceload, And some default staff roles - Helper, Mod, Admin with some useful commands. If server owners want to add more commands to any of the ranks, go into the WORLD > ServerConfig > FTBRanks > and you can see a list of all available commands in the README.txt, copy the desired command you can set it to ':true' (or false to remove access).
 - Please be sure to back up your worlds as some mods like Little Tiles had to be removed, safe to update but to get rid of the log spam if for example little tiles blocks were in your builds, use log be gone. Config > logbegone.json
 
-## ADDED MODS
+### ADDED MODS
 - [Create: Copycats+](https://www.curseforge.com/minecraft/mc-mods/copycats)
 - [Create: Slice and Dice](https://www.curseforge.com/minecraft/mc-mods/slice-and-dice)
 - [Immersive Paintings](https://www.curseforge.com/minecraft/mc-mods/immersive-paintings)
@@ -54,7 +69,8 @@ Summary of bug fixes:
 - **YellowCore v1** - changes some kubejs for yellow's new datapack (Compat Recipes for All the modium alloys, & more!)
 
 
-## REMOVED MODS
+### REMOVED MODS
+- Better Respawn
 - Connectivity
 - Structurify
 - Apothic Compats
