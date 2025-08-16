@@ -19,6 +19,21 @@ Jump to a Version:
 
 ---
 
+# [v1.3.2]
+### NEOFORGE VERSION IS NOW 21.1.200
+- Some more fixes for refined storage, removed raised, fixes for serverpack, and added some missing mods from other modified cobblemon modpacks.  
+
+### ADDED MODS
+- [Storage No Poof](https://www.curseforge.com/minecraft/mc-mods/storage-no-poof)
+- [Metal Barrels](https://www.curseforge.com/minecraft/mc-mods/metal-barrels)
+- [OpenBlocks Elevators](https://www.curseforge.com/minecraft/mc-mods/openblocks-elevator)
+- [Wither Spawn Animation](https://www.curseforge.com/minecraft/mc-mods/wither-spawn-animation)
+
+### REMOVED MODS
+- Raised
+ 
+
+---
 # [v1.3.1]
 - Fixes for quest lang, crash on server startup, and added Immersive Paintings mod.
 - Just a small hotfix, read more important updates below!
