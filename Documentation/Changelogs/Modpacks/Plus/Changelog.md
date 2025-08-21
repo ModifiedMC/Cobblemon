@@ -13,8 +13,21 @@ https://bloom.modifiedmc.com
 
 Jump to a Version: 
 - [[v11.8.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1180), [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
----
 
+---
+# [v11.8.4]
+- Fix issues with dedicated servers crashing
+- Added back recipes to convert from coins to piles to blocks
+- More updates for refined storage fixing many critical bugs, dupe exploits, etc.
+- Added back missing server scripts (fixes for choosing a starter without op, fixes for many recipes, and more!)
+- Block cards dropping from cobblemon / trainers, please remove any of these dropped cards if you have them from previous updates as they spawn pokemon that bug out the pc.
+
+---
+# [v11.8.3]
+- Archieved due to bugs
+
+
+---
 # [v11.8.2]
 ### NEOFORGE VERSION IS NOW 21.1.200
 - Some more fixes for minecolonies & refined storage, removed raised, and added some missing mods from other modified cobblemon modpacks.  
