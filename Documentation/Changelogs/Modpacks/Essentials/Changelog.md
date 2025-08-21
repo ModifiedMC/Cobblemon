@@ -18,6 +18,22 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+# [v1.4.0]
+- Removed most AllTheOres from spawning
+- Fix issues with dedicated servers crashing
+- More updates for refined storage fixing many critical bugs, dupe exploits, etc.
+- Block cards dropping from cobblemon / trainers, please remove any of these dropped cards if you have them from previous updates as they spawn pokemon that bug out the pc.
+- Notice: Grave mod was replaced so be sure to collect items from pending graves BEFORE updating
+
+### ADDED MODS
+- Gravestone
+- Gravestone Curios Compat
+
+### REMOVED MODS
+- Youre in Grave Danger (replaced)
+
+
+---
 
 # [v1.3.2]
 ### NEOFORGE VERSION IS NOW 21.1.200
