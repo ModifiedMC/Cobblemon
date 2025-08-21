@@ -16,11 +16,21 @@ Jump to a Version:
 
 ---
 # [v11.8.4]
+- Added missing mods from other packs
 - Fix issues with dedicated servers crashing
 - Added back recipes to convert from coins to piles to blocks
 - More updates for refined storage fixing many critical bugs, dupe exploits, etc.
 - Added back missing server scripts (fixes for choosing a starter without op, fixes for many recipes, and more!)
 - Block cards dropping from cobblemon / trainers, please remove any of these dropped cards if you have them from previous updates as they spawn pokemon that bug out the pc.
+
+### ADDED MODS
+- Create: Winery
+- Gravestone
+- Gravestone Curios Compat
+
+### REMOVED MODS
+- Youre in Grave Danger (replaced)
+
 
 ---
 # [v11.8.3]
