@@ -15,6 +15,15 @@ Jump to a Version:
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
 ---
 
+# [v11.8.4]
+- Fix issues with dedicated servers crashing
+- Added back recipes to convert from coins to piles to blocks
+- More updates for refined storage fixing many critical bugs, dupe exploits, etc.
+- Added back missing server scripts (fixes for choosing a starter without op, fixes for many recipes, and more!)
+- Block cards dropping from cobblemon / trainers, please remove any of these dropped cards if you have them from previous updates as they spawn pokemon that bug out the pc.
+
+---
+
 # [v1.8.3]
 * Fixed crash on startup, updated CA packname
 
