@@ -18,6 +18,22 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+
+# [1.5.0]
+- Resolved Various Memory leaks, Client & Server crashes.
+- Little Tiles is back! Mod performance seems much better after testing recent versions.
+- Unified drop for Create: Zinc, no more ATM Zinc from ores resolving many recipes from sidemods.
+- Crucial Updates to tons of mods! Aether, Artifacts, Cataclsym, Fight or Flight, Refined Storage, etc, etc.
+
+### ADDED MODS
+- [Curios](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [Little Tiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
+- [Accessories Compat Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer)
+
+### REMOVED MODS
+- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer)
+
+---
 # [v1.4.0]
 - Removed most AllTheOres from spawning
 - Fix issues with dedicated servers crashing
