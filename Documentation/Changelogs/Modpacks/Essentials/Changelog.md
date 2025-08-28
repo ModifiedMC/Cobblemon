@@ -31,8 +31,9 @@ Jump to a Version:
 - [Accessories Compat Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer)
 
 ### REMOVED MODS
-- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer)
-
+- [EmoteCraft ](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) (causing issues)
+- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer) (replaced)
+  
 ---
 # [v1.4.0]
 - Removed most AllTheOres from spawning
