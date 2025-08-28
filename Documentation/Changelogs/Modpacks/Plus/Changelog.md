@@ -15,6 +15,26 @@ Jump to a Version:
 - [[v11.8.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1180), [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
 
 ---
+
+# [11.9.0]
+- Resolved Various Memory leaks, Client & Server crashes.
+- Little Tiles is back! Mod performance seems much better after testing recent versions.
+- Botany Pots is now updated to Neoforge 1.21.1! - first release so please report any bugs.
+- Unified drop for Create: Zinc, no more ATM Zinc from ores resolving many recipes from sidemods.
+- Crucial Updates to tons of mods! Aether, Artifacts, Cataclsym, Fight or Flight, Refined Storage, etc, etc.
+
+### ADDED MODS
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+- [Curios](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [Little Tiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
+- [Accessories Compat Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer)
+
+### REMOVED MODS
+- [EmoteCraft ](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) (causing issues)
+- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer) (replaced)
+
+---
 # [v11.8.4]
 - Added missing mods from other packs
 - Fix issues with dedicated servers crashing
