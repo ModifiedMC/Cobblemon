@@ -32,8 +32,8 @@ Jump to a Version:
 - [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
 
 ### REMOVED MODS
-- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer)
-
+- [EmoteCraft ](https://www.curseforge.com/minecraft/mc-mods/emotecraft-forge) (causing issues)
+- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer) (replaced)
 ---
 
 # [v1.8.4]
