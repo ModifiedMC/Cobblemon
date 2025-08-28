@@ -1,4 +1,4 @@
-# Modified Cobblemon PLUS - Master Changelog
+# Modified Cobblemon Overclocked - Master Changelog
 
 **Join the Discord:**
 https://discord.gg/tdMWUuwFKB
@@ -13,6 +13,27 @@ https://bloom.modifiedmc.com
 
 Jump to a Version: 
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+---
+
+# [1.9.0]
+- Resolved Various Memory leaks, Client & Server crashes.
+- Little Tiles is back! Mod performance seems much better after testing recent versions.
+- Botany Pots is now updated to Neoforge 1.21.1! - first release so please report any bugs.
+- Unified drop for Create: Zinc, no more ATM Zinc from ores resolving many recipes from sidemods.
+- Crucial Updates to tons of mods! Aether, Artifacts, Cataclsym, Fight or Flight, Refined Storage, etc, etc.
+
+### ADDED MODS
+- [Botany Pots](https://www.curseforge.com/minecraft/mc-mods/botany-pots)
+- [Botany Mystical Agri compat](https://www.curseforge.com/minecraft/mc-mods/botany-pots-mystical-agriculture-compat)
+- [Botany Trees](https://www.curseforge.com/minecraft/mc-mods/botany-trees)
+- [Curios](https://www.curseforge.com/minecraft/mc-mods/curios)
+- [Little Tiles](https://www.curseforge.com/minecraft/mc-mods/littletiles)
+- [Accessories Compat Layer](https://www.curseforge.com/minecraft/mc-mods/accessories-compat-layer)
+- [Mob Grinding Utils](https://www.curseforge.com/minecraft/mc-mods/mob-grinding-utils)
+
+### REMOVED MODS
+- [CC Compat layer for Accessories](https://www.curseforge.com/minecraft/mc-mods/accessories-cc-layer)
+
 ---
 
 # [v1.8.4]
