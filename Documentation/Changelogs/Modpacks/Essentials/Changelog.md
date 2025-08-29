@@ -18,7 +18,11 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+# [1.5.1]
+- Fixed crash on new world creation
+- Fixed other server & client crashes
 
+---
 # [1.5.0]
 - Resolved Various Memory leaks, Client & Server crashes.
 - Little Tiles is back! Mod performance seems much better after testing recent versions.
