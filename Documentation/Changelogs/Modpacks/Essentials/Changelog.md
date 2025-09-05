@@ -18,6 +18,15 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+# [1.5.2]
+- Fixes for several crashes, including network packet issues, more memory leak fixes, etc
+- Fixes for Accessories Menu Error, and many other Crashes with mods like Sophisticated Storage/Backpacks
+- Improved Render performance with shaders enabled (Flerovium)
+- Tons of fixes for Simple Voice Chat ([see most of the changes here](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/6951851))
+- Create Addons such as Central Kitchen now has alot more mod compat! Adding Support for many other Farmers Delight Addons!
+- Many other Fixes to Create Addons, fixed invalid items/liquid, console/log spam, server crashes, etc
+
+---
 # [1.5.1]
 - Fixed crash on new world creation
 - Fixed other server & client crashes
