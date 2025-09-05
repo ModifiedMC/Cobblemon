@@ -19,6 +19,7 @@ Jump to a Version:
 
 ---
 # [1.5.2]
+- Lots of Fixes for side tagging, removing several client side mods from server packs. (TY @Laya_Reed for the list of mods)
 - Fixes for several crashes, including network packet issues, more memory leak fixes, etc
 - Fixes for Accessories Menu Error, and many other Crashes with mods like Sophisticated Storage/Backpacks
 - Improved Render performance with shaders enabled (Flerovium)
