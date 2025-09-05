@@ -13,6 +13,17 @@ https://bloom.modifiedmc.com
 
 Jump to a Version: 
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+
+---
+# [1.9.2]
+- Fixes for several crashes, including network packet issues, more memory leak fixes, etc
+- Fixes for Accessories Menu Error, and many other Crashes with mods like Sophisticated Storage/Backpacks
+- Improved Render performance with shaders enabled (Flerovium)
+- Tons of fixes for Simple Voice Chat ([see most of the changes here](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/6951851))
+- Create Addons such as Central Kitchen now has alot more mod compat! Adding Support for many other Farmers Delight Addons!
+- Many other Fixes to Create Addons, fixed invalid items/liquid, console/log spam, server crashes, etc
+- Lots of fixes for other mods such as Ars Nouveau, Minecolonies, & Silent Gear
+
 ---
 # [1.9.1]
 - Fixed some server & client crashes
