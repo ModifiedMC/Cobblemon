@@ -15,6 +15,16 @@ Jump to a Version:
 - [[v11.8.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1180), [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
 
 ---
+# [11.9.2]
+- Fixes for several crashes, including network packet issues, more memory leak fixes, etc
+- Fixes for Accessories Menu Error, and many other Crashes with mods like Sophisticated Storage/Backpacks
+- Improved Render performance with shaders enabled (Flerovium)
+- Tons of fixes for Simple Voice Chat ([see most of the changes here](https://www.curseforge.com/minecraft/mc-mods/simple-voice-chat/files/6951851))
+- Create Addons such as Central Kitchen now has alot more mod compat! Adding Support for many other Farmers Delight Addons!
+- Many other Fixes to Create Addons, fixed invalid items/liquid, console/log spam, server crashes, etc
+- Lots of fixes for other mods such as Ars Nouveau, Minecolonies, & Silent Gear
+
+---
 # [11.9.1]
 - Fixed some server & client crashes
   
