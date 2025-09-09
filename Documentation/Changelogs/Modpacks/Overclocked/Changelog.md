@@ -15,6 +15,28 @@ Jump to a Version:
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
 
 ---
+
+# [1.9.3]
+- Disabled more client-side mods in "Server Pack" files. 
+### Fixed Removed Mods:
+- [Cataclysm Spellbook](https://www.curseforge.com/minecraft/mc-mods/cataclysm-spellbooks "Cataclysm Spellbook")
+    - [Aces Spell Utils (New Dependency)](https://www.curseforge.com/minecraft/mc-mods/aces-spell-utils "Aces Spell Utils (New Dependency)")
+- [Tidal Towns](https://www.curseforge.com/minecraft/mc-mods/tidal-towns "Tidal Towns")
+- [EMI -- Refined Storage Compat](https://www.curseforge.com/minecraft/mc-mods/refined-storage-emi-integration "EMI -- Refined Storage Compat")
+
+### Added Mods:
+- [CC:Tweaked](https://modrinth.com/mod/cc-tweaked "CC:Tweaked")
+- [More Industrial Foregoing Addons](https://www.curseforge.com/minecraft/mc-mods/mifa "More Industrial Foregoing Addons")
+- [BotanyPots Tiers](https://www.curseforge.com/minecraft/mc-mods/botany-pots-tiers "BotanyPots Tiers")
+- [Crate Delight: Croptopia](https://www.curseforge.com/minecraft/mc-mods/crate-delight-croptopia "Crate Delight: Croptopia")
+- [Crate Delight](https://www.curseforge.com/minecraft/mc-mods/crate-delight-forge "Crate Delight")
+- [Display Delight](https://www.curseforge.com/minecraft/mc-mods/display-delight "Display Delight")
+- [Cultural Delights](https://www.curseforge.com/minecraft/mc-mods/cultural-delights "Cultural Delights")
+- [Cerulean](https://www.curseforge.com/minecraft/mc-mods/cerulean "Cerulean")
+- [Saturn](https://www.curseforge.com/minecraft/mc-mods/saturn "Saturn")
+
+---
+
 # [1.9.2]
 - Added BotanyPot x Cobblemon compat - Huge thanks to @Laya_Reed for the datapack!
 - Resolved incorrect command to spawn the last trainer of BDSP, you can now summon Cynthia through quests as intended.
