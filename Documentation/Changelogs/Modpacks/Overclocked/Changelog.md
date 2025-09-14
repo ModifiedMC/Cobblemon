@@ -16,6 +16,38 @@ Jump to a Version:
 
 ---
 
+# [1.9.4]
+- More crucial pack fixes, thanks to Laya, Yellow, & all the reports in Discord!
+
+- Fixed issues with mods interupting world saving.
+- Fixed Accessories crashes, invalid item tag, etc
+- Drastically improved F3 menu by hiding most info panels.
+- Dimension Dungeons; fixes longstanding bug with patchouli guidebook!
+- General Bug Fixes, Mod Updates; Little Tiles, MineColonies, SimpleVoiceChat, & many more!
+- Memory Leak is now resolved with Refined Storage, there should be much better server performance now!
+- Swapped Journey Map for Xaeros Minimamp, Worldmap, & XaeroPlus - Should drastically improve server performance but there are a few mods that dont have as good of integration with Xaeros vs JM.
+- CLAIMING: still handeled through FTBChunks so no changes required on that end for the server/players needing to update claims. To access this claim map you now click the map icon in the top left when you open your inventory. The Xaeros WorldMap is bound to M by default (not for claims, shows icons, waypoints, etc)
+  
+### Translation
+- Add **PT_BR** localization by _PrincessStellar_
+
+### Added mods:
+- Apothic Compats
+- Mystical Agradditions
+- Custom Regions Unexplored fix (Yellow571)
+- Tool Belt
+- Xaeros Minimap
+- Xaeros Worldmap
+- XaeroPlus
+
+### Added content:
+- Allthemodium crops for Mystical Agriculture/Agradditions
+
+
+
+
+---
+
 # [1.9.3]
 - Disabled more client-side mods in "Server Pack" files. 
 ### Fixed Removed Mods:
