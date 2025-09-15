@@ -43,6 +43,7 @@ Jump to a Version:
 - XaeroPlus
 
 ### Removed Mods:
+- AllTheOres / AllTheCompat
 - Paper Doll
 - Journey Map
 - Journey Map Integration
