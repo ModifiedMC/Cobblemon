@@ -19,7 +19,7 @@ Jump to a Version:
 
 ---
 
-# [1.5.4]
+# [1.6.0]
 - Fixed not being able to create a new world, and many other crucial pack fixes.
   
 - Fixed issues with mods interupting world saving.
@@ -48,6 +48,7 @@ Jump to a Version:
 - Journey Map
 - Journey Map Integration
 - EMF / ETF / Fresh Animations RP
+- Wither Spawn Animation
 
 ---
 
