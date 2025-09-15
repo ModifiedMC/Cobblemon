@@ -34,6 +34,7 @@ Jump to a Version:
 
 
 ### Added mods:
+- Deep Aether
 - Apothic Compats
 - Mystical Agradditions
 - Custom Regions Unexplored fix (Yellow571)
