@@ -33,6 +33,7 @@ Jump to a Version:
 - Add **PT_BR** localization by _PrincessStellar_
 
 ### Added mods:
+- Deep Aether
 - Apothic Compats
 - Custom Regions Unexplored fix (Yellow571)
 - Tool Belt
