@@ -21,6 +21,7 @@ Jump to a Version:
 
 - Fixed issues with mods interupting world saving.
 - Fixed Accessories crashes, invalid item tag, etc
+- Removed EMF / ETF & Fresh Animations resourcepack
 - Drastically improved F3 menu by hiding most info panels.
 - Dimension Dungeons; fixes longstanding bug with patchouli guidebook!
 - General Bug Fixes, Mod Updates; Little Tiles, MineColonies, SimpleVoiceChat, & many more!
@@ -30,6 +31,7 @@ Jump to a Version:
   
 ### Translation
 - Add **PT_BR** localization by _PrincessStellar_
+
 
 ### Added mods:
 - Apothic Compats
@@ -43,7 +45,11 @@ Jump to a Version:
 ### Added content:
 - Allthemodium crops for Mystical Agriculture/Agradditions
 
-
+### Removed Mods:
+- Paper Doll
+- Journey Map
+- Journey Map Integration
+- EMF / ETF / Fresh Animations RP
 
 
 ---
