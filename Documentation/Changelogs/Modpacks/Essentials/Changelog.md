@@ -18,6 +18,38 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
+
+# [1.5.4]
+- Fixed not being able to create a new world, and many other crucial pack fixes.
+  
+- Fixed issues with mods interupting world saving.
+- Fixed Accessories crashes, invalid item tag, etc
+- Removed EMF / ETF & Fresh Animations resourcepack
+- Drastically improved F3 menu by hiding most info panels.
+- Dimension Dungeons; fixes longstanding bug with patchouli guidebook!
+- General Bug Fixes, Mod Updates; Little Tiles, SimpleVoiceChat, & many more!
+- Memory Leak is now resolved with Refined Storage, there should be much better server performance now!
+- Swapped Journey Map for Xaeros Minimamp, Worldmap, & XaeroPlus - Should drastically improve server performance but there are a few mods that dont have as good of integration with Xaeros vs JM.
+- CLAIMING: still handeled through FTBChunks so no changes required on that end for the server/players needing to update claims. To access this claim map you now click the map icon in the top left when you open your inventory. The Xaeros WorldMap is bound to M by default (not for claims, shows icons, waypoints, etc)
+  
+### Translation
+- Add **PT_BR** localization by _PrincessStellar_
+
+### Added mods:
+- Custom Regions Unexplored fix (Yellow571)
+- Tool Belt
+- Xaeros Minimap
+- Xaeros Worldmap
+- XaeroPlus
+
+### Removed Mods:
+- Paper Doll
+- Journey Map
+- Journey Map Integration
+- EMF / ETF / Fresh Animations RP
+
+---
+
 # [1.5.2]
 - Resolved incorrect command to spawn the last trainer of BDSP, you can now summon Cynthia through quests.
 - Lots of Fixes for side tagging, removing several client side mods from server packs. (TY @Laya_Reed for the list of mods)
