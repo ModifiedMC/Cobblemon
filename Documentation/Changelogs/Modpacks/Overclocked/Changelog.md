@@ -17,6 +17,7 @@ Jump to a Version:
 ---
 # [1.9.5]
 - Fixed Villagers having white eyes
+- Rolled back Lightmans Currency & LC Tech Versions.
 - Fixed shader menu & other gui screens from being unavailable due to background blur
 
 ---
