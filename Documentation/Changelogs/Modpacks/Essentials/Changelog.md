@@ -19,7 +19,7 @@ Jump to a Version:
 
 ---
 
-# [1.6.0]
+# [1.5.4]
 - Fixed not being able to create a new world, and many other crucial pack fixes.
   
 - Fixed issues with mods interupting world saving.
