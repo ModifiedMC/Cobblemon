@@ -53,6 +53,7 @@ Jump to a Version:
 - Allthemodium crops for Mystical Agriculture/Agradditions
 
 ### Removed Mods:
+- CMDCam
 - Paper Doll
 - Journey Map
 - Journey Map Integration
