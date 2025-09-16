@@ -20,6 +20,8 @@ Jump to a Version:
 - Fixed Villagers having white eyes
 - Fixed shader menu & other gui screens from being unavailable due to background blur
 
+- Resolved missing Quest reward items (Cobblemon Util) -- a larger update is coming to quests again soon to fix up the missing mob icons, & add more chapters!
+
 ---
 # [11.9.4]
 ### NEOFORGE VERSION IS NOW 21.1.208
