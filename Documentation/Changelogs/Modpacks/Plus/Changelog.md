@@ -16,7 +16,13 @@ Jump to a Version:
 
 ---
 
+# [11.9.5]
+- Fixed Villagers having white eyes
+- Fixed shader menu & other gui screens from being unavailable due to background blur
+
+---
 # [11.9.4]
+### NEOFORGE VERSION IS NOW 21.1.208
 - More crucial pack fixes, thanks to Laya, Yellow, & all the reports in Discord!
 
 - Fixed issues with mods interupting world saving.
@@ -27,6 +33,7 @@ Jump to a Version:
 - General Bug Fixes, Mod Updates; Little Tiles, MineColonies, SimpleVoiceChat, & many more!
 - Memory Leak is now resolved with Refined Storage, there should be much better server performance now!
 - Swapped Journey Map for Xaeros Minimamp, Worldmap, & XaeroPlus - Should drastically improve server performance but there are a few mods that dont have as good of integration with Xaeros vs JM.
+- The map entity icons were set with GUI scale of 3x, so if you run anything else you may need to adjust. (ESC > Mods > Xaeros Mini > Entity Overlay Settings > Set Icon Scale)
 - CLAIMING: still handeled through FTBChunks so no changes required on that end for the server/players needing to update claims. To access this claim map you now click the map icon in the top left when you open your inventory. The Xaeros WorldMap is bound to M by default (not for claims, shows icons, waypoints, etc)
   
 ### Translation
@@ -42,6 +49,7 @@ Jump to a Version:
 - XaeroPlus
 
 ### Removed Mods:
+- CMDCam
 - Paper Doll
 - Journey Map
 - Journey Map Integration
