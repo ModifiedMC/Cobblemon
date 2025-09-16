@@ -19,7 +19,7 @@ Jump to a Version:
 # [11.9.5]
 - Fixed Villagers having white eyes
 - Fixed shader menu & other gui screens from being unavailable due to background blur
-
+- Rolled back Lightmans Currency & LC Tech Versions.
 - Resolved missing Quest reward items (Cobblemon Util) -- a larger update is coming to quests again soon to fix up the missing mob icons, & add more chapters!
 
 ---
