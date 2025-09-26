@@ -19,6 +19,38 @@ Jump to a Version:
 
 ---
 
+# [1.6.0]
+### NEOFORGE VERSION IS NOW 21.1.209
+- Fixes many bugs with recent versions of the modpacks, Project files are now Synced with GH Again, thanks to all reports in discord!
+- There will be a quest overhaul coming soon to rework the missing textures & items, primarily with the mob hunter quests.
+
+
+- Merged Mort's Fixes for the build script to all Modified Cobblemon Repos, allowing for full development with VSC/WSL again!
+- Updated default server variables.txt, removed problematic java arg, updated neoforge version.
+- Resolved more Memory Leaks, Optimizations for mods like Refined Storage, Accessories, & more!
+- Significantly cleaned up the configs, removing many outdated files.
+- Updated Laya Tweaks (Cobblemon Botany Compat) & ATM x MS Datapacks.  
+- Swapped EMI/TMRV for only JEI, expect longer initial client load times but should resolve many issues with the previous EMI setup.
+- Fixed issues with players accessing the Aether Accessories items / GUI
+- Fixed issues with the CobblemonUtil Items (Caps, Feathers, Shiny Cards, Etc.) - restore previously aquired items as well as fixes the quest shop.
+
+
+### ADDED MODS
+- [Cobblemon Raid Dens](https://www.curseforge.com/minecraft/mc-mods/cobblemonraiddens)
+- [Cobblemon Player Exp](https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp)
+- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/7034701)
+- [JEResources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
+- [JEProfessions](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
+- [Refined Storage x JEI Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration)
+- [Create: Mechanical Spawner](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-spawner)
+
+### REMOVED MODS
+- EMI & Addons (Loot, Enchanting, Ores, Professions, Extra Mod Integrations)
+- Refined Storage Emi Compat
+- EasyMobFarm (Causing Significant server lag, issues with performance)
+  
+---
+
 # [1.5.5]
 - Fixed Villagers having white eyes
 - Rolled back Lightmans Currency Version.
