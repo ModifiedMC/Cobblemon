@@ -40,7 +40,6 @@ Jump to a Version:
 - [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [JEResources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 - [JEProfessions](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
-- [JEMekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks)
 - [FTB JEI Extras](https://www.curseforge.com/minecraft/mc-mods/ftb-jei-extras)
 - [Refined Storage x JEI Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration)
 - [Chroma Carvings](https://www.curseforge.com/minecraft/mc-mods/chroma-carvings)
