@@ -17,24 +17,28 @@ Jump to a Version:
 ---
 # [1.10.0]
 ### NEOFORGE VERSION IS NOW 21.1.209
-- Fixes many bugs with recent versions of the modpacks, Project files are now Synced with GH Again, thanks to all reports in discord!
-- There will be a quest overhaul coming soon to rework the missing textures & items, primarily with the mob hunter quests.
+- Fixes many bugs with recent versions of the modpacks, performance improvements, & Project files are now Synced with GH Again, thanks to all reports / suggestions in discord!
+- - Lots of new highly requested features; Cobblemon RaidDens, More Botany Pot Support, & More!
+- There will be a quest overhaul coming soon to fix up old quests, add new quests based on newly added content, and add NEW seasonal quests!
 
+#
 
-- Merged Mort's Fixes for the build script to all Modified Cobblemon Repos, allowing for full development with VSC/WSL again!
 - Updated default server variables.txt, removed problematic java arg, updated neoforge version.
 - Resolved more Memory Leaks, Optimizations for mods like Refined Storage, Minecolonies, & more!
 - Significantly cleaned up the configs, removing many outdated files.
-- Updated Laya Tweaks (Cobblemon Botany Compat) & ATM x MS Datapacks.  
+- Updated Datapacks. ATM x MS new update, Laya Tweaks 1.4 (Botany Compat) - added support for cobblemon, croptopia, farmers delight addons, & ars nouveau in botany pots!
 - Swapped EMI/TMRV for only JEI, expect longer initial client load times but should resolve many issues with the previous EMI setup.
-- Fixed issues with players accessing the Aether Accessories items / GUI
+- Fixed issues with players accessing the Aether Accessories items / GUI, enabled the specific gui button & resolved overlapping buttons.
 - Fixed issues with the CobblemonUtil Items (Caps, Feathers, Shiny Cards, Etc.) - restore previously aquired items as well as fixes the quest shop.
+- Fixed several issues with quests - resolved missing textures, updated chapter icons, updated several quests, added rewards, removed depreacted mod quests.
+- Merged Mort's Fixes for the build script to all Modified Cobblemon Repos, allowing for full development with VSC/WSL again!
 
 
 ### ADDED MODS
 - [Cobblemon Raid Dens](https://www.curseforge.com/minecraft/mc-mods/cobblemonraiddens)
 - [Cobblemon Player Exp](https://www.curseforge.com/minecraft/mc-mods/cobblemon-playerxp)
-- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei/files/7034701)
+- [Oritech](https://www.curseforge.com/minecraft/mc-mods/oritech)
+- [JEI](https://www.curseforge.com/minecraft/mc-mods/jei)
 - [JEResources](https://www.curseforge.com/minecraft/mc-mods/just-enough-resources-jer)
 - [JEProfessions](https://www.curseforge.com/minecraft/mc-mods/just-enough-professions-jep)
 - [JEMekanism Multiblocks](https://www.curseforge.com/minecraft/mc-mods/just-enough-mekanism-multiblocks)
@@ -42,15 +46,22 @@ Jump to a Version:
 - [ME Requester](https://www.curseforge.com/minecraft/mc-mods/merequester)
 - [FTB JEI Extras](https://www.curseforge.com/minecraft/mc-mods/ftb-jei-extras)
 - [Refined Storage x JEI Integration](https://www.curseforge.com/minecraft/mc-mods/refined-storage-jei-integration)
+- [Chroma Carvings](https://www.curseforge.com/minecraft/mc-mods/chroma-carvings)
 - [Create: Railways Navigator](https://www.curseforge.com/minecraft/mc-mods/create-railways-navigator)
 - [Create: Mechanical Spawner](https://www.curseforge.com/minecraft/mc-mods/create-mechanical-spawner)
-- [Hostile Neural Network](https://www.curseforge.com/minecraft/mc-mods/hostile-neural-networks)
 - [Soulplied Energistics](https://www.curseforge.com/minecraft/mc-mods/soulplied-energistics)
+- [TO Tweaks for Iron Spells](https://www.curseforge.com/minecraft/mc-mods/to-tweaks-irons-spells)
+- [Merge Enchantmants](https://www.curseforge.com/minecraft/mc-mods/merge-enchantments)
+- [Toggle Enchantments](https://www.curseforge.com/minecraft/mc-mods/toggle-enchantments)
 
 ### REMOVED MODS
 - EMI & Addons (Loot, Enchanting, Ores, Professions, Extra Mod Integrations)
+- BotanyPot Tiers (Causing issues, will be back*)
 - Refined Storage Emi Compat
-- EasyMobFarm (Causing Significant server lag, issues with performance)
+- Cardiac, EasyMobFarm, Ultimine Addition (Causing Significant server lag, issues with performance)
+- Showcase Item, RCTH (Redundant)
+- Chat Toggle
+
 
 ---
 # [1.9.5]
