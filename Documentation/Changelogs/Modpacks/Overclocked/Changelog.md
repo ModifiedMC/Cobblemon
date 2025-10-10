@@ -35,7 +35,7 @@ Jump to a Version:
 - [Create: Smart Bounds](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds)
 - [Toggleable Enchants](https://www.curseforge.com/minecraft/mc-mods/toggleable-enchantments)
 - - "J" by default to toggle your enchantments!
-- [Construction Sticks](https://www.curseforge.com/minecraft/mc-mods/construction-sticks)
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
 - [Mech Trowel](https://www.curseforge.com/minecraft/mc-mods/mech-trowel)
 - [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
   
