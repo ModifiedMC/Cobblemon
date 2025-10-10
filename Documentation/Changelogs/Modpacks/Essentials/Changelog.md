@@ -17,6 +17,12 @@ Jump to a Version:
 - [[v1.1.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v112), [[v1.1.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v111), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v110)
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
+---
+# [1.6.2]
+- Fixed client / server mod list sync
+- Fixed enchanted book / redstone dupe - thanks @exbubba for providing the scripts
+  
+---
 # [1.6.1]
 - Fixed custom recipes not applying as intended
 - Improved performance / unecessary extra ticking events
