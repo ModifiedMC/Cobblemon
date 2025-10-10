@@ -15,6 +15,34 @@ Jump to a Version:
 - [[v11.8.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1180), [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
 
 ---
+# [11.10.1]
+- Fixed custom recipes not applying as intended
+- Improved performance / unecessary extra ticking events
+- Resolved server freezing during RTP or Dimension switch
+- Fixed issues with modded enchants displaying properly on items
+- Fixed issues with fossil quests not tracking after mon is registered
+- Updated resource packs; Cobblemon Interface + RCT Trainers Textures
+- Updated several mods - many fixes for create addons, Oritech, raid dens, & more!
+- Changed all starter mon to level 5, added two new "Regions" adding 6 new starters!
+- - "Tokiwa"; Abra, Mankey, Sandile | "Koryū"; Axew, Horsea, Trapinch
+- Optimized Cobblemon Config stabilizing TPS drops during spawn events & on servers with many Pasture/Egg farms.
+- Slightly changed cobblemon rarity config, each time a spawn event fires it has a 90% chance to be common, 8% uncommon, 1.5% rare, 0.5% ultra-rare
+- - (previous rates were; 94.3%, 5%, 0.5%, 0.2%)
+
+
+### ADDED MODS
+- [Create: Extra Gauges](https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges)
+- [Create: Smart Bounds](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds)
+- [Toggleable Enchants](https://www.curseforge.com/minecraft/mc-mods/toggleable-enchantments)
+- - "J" by default to toggle your enchantments!
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
+- [Mech Trowel](https://www.curseforge.com/minecraft/mc-mods/mech-trowel)
+  
+### REMOVED MODS
+- Toggle Enchantments (replaced)
+- Spark
+  
+---
 # [11.10.0]
 ### NEOFORGE VERSION IS NOW 21.1.209
 - Fixes many bugs with recent versions of the modpacks, performance improvements, & Project files are now Synced with GH Again, thanks to all reports / suggestions in discord!
