@@ -13,7 +13,36 @@ https://bloom.modifiedmc.com
 
 Jump to a Version: 
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
+  
+---
+# [1.10.1]
+- Fixed custom recipes not applying as intended
+- Improved performance / unecessary extra ticking events
+- Resolved server freezing during RTP or Dimension switch
+- Fixed issues with modded enchants displaying properly on items
+- Fixed issues with fossil quests not tracking after mon is registered
+- Updated resource packs; Cobblemon Interface + RCT Trainers Textures
+- Updated several mods - many fixes for create addons, Oritech, raid dens, & more!
+- Changed all starter mon to level 5, added two new "Regions" adding 6 new starters!
+- - "Tokiwa"; Abra, Mankey, Sandile | "Koryū"; Axew, Horsea, Trapinch
+- Optimized Cobblemon Config stabilizing TPS drops during spawn events & on servers with many Pasture/Egg farms.
+- Slightly changed cobblemon rarity config, each time a spawn event fires it has a 90% chance to be common, 8% uncommon, 1.5% rare, 0.5% ultra-rare
+- - (previous rates were; 94.3%, 5%, 0.5%, 0.2%)
 
+
+### ADDED MODS
+- [Create: Extra Gauges](https://www.curseforge.com/minecraft/mc-mods/create-extra-gauges)
+- [Create: Smart Bounds](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds)
+- [Toggleable Enchants](https://www.curseforge.com/minecraft/mc-mods/toggleable-enchantments)
+- - "J" by default to toggle your enchantments!
+- [Construction Sticks](https://www.curseforge.com/minecraft/mc-mods/construction-sticks)
+- [Mech Trowel](https://www.curseforge.com/minecraft/mc-mods/mech-trowel)
+- [Mining Gadgets](https://www.curseforge.com/minecraft/mc-mods/mining-gadgets)
+  
+### REMOVED MODS
+- Toggle Enchantments (replaced)
+- Spark
+  
 ---
 # [1.10.0]
 ### NEOFORGE VERSION IS NOW 21.1.209
