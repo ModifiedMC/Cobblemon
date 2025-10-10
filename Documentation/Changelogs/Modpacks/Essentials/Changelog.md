@@ -17,6 +17,31 @@ Jump to a Version:
 - [[v1.1.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v112), [[v1.1.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v111), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v110)
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
+# [1.6.1]
+- Fixed custom recipes not applying as intended
+- Improved performance / unecessary extra ticking events
+- Resolved server freezing during RTP or Dimension switch
+- Fixed issues with modded enchants displaying properly on items
+- Fixed issues with fossil quests not tracking after mon is registered
+- Updated resource packs; Cobblemon Interface + RCT Trainers Textures
+- Updated several mods - many fixes for create addons, Oritech, raid dens, & more!
+- Changed all starter mon to level 5, added two new "Regions" adding 6 new starters!
+- - "Tokiwa"; Abra, Mankey, Sandile | "Koryū"; Axew, Horsea, Trapinch
+- Optimized Cobblemon Config stabilizing TPS drops during spawn events & on servers with many Pasture/Egg farms.
+- Slightly changed cobblemon rarity config, each time a spawn event fires it has a 90% chance to be common, 8% uncommon, 1.5% rare, 0.5% ultra-rare
+- - (previous rates were; 94.3%, 5%, 0.5%, 0.2%)
+
+
+### ADDED MODS
+- [Create: Smart Bounds](https://www.curseforge.com/minecraft/mc-mods/create-smart-bounds)
+- [Toggleable Enchants](https://www.curseforge.com/minecraft/mc-mods/toggleable-enchantments)
+- - "J" by default to toggle your enchantments!
+- [Building Wands](https://www.curseforge.com/minecraft/mc-mods/building-wands)
+  
+### REMOVED MODS
+- Toggle Enchantments (replaced)
+- Spark
+  
 ---
 
 # [1.6.0]
