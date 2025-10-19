@@ -15,6 +15,26 @@ Jump to a Version:
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
   
 ---
+# [1.10.3]
+### NEOFORGE VERSION IS NOW 21.1.211
+- Many mods were updated this release, fixing many longstanding bugs in mods such as; Accessories, Artifacts, Ars Nouveau, Botany Pots, KubeJS, MineColonies, Tectonic, Create Addons, as well as updates to many of our cobblemon addons; Raid Dens, Fight or Flight, Unchained, & more! 
+  - Introduced a new [Spawn Chaining](https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-chaining) mechanic, where the actual rate of spawns increases when chaining mons. The other shiny, nature, & other stat bonuses still apply for their respective KO / catch streak or totals.
+  - Changed some settings on Server Core optimizing many areas of spawning, and also allowing for more total hostiles improving mob farms but server owners please note you may need to tone this back depending on your total number of active players
+  - Increased worldgen performance by ~30% (tectonic), optimized rendering of entities & graphics through flywheel, networking fixes, and reduced hud updates - drastically improving performance overall in many aspects of the modpack.
+  - Updated cobbreeding to use the Masuda Methood again -  If the two pokemon making an egg belong to different trainers, the shiny rate will be multiplied significantly (odds are roughly 1/2700 instead of 1/8192)
+  - QOL Updates - New colour-coded / easier to understand shaderpack menu, More info in JEI for loot tables, Better Biome Block Blending, Significant Performance Improvements, etc
+
+### ADDED MODS
+- [Gnetum](https://www.curseforge.com/minecraft/mc-mods/gnetum)
+- [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin)
+- [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel)
+- [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
+- [Spawn Chaining](https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-chaining)
+- [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info)
+- [Iris Shader Folder](https://www.curseforge.com/minecraft/mc-mods/iris-shader-folder)
+- [Better Biome Reblend](https://www.curseforge.com/minecraft/mc-mods/bbrb)
+
+---
 # [1.10.2]
 - Fixed client / server mod list sync
 - Fixed enchanted book / redstone dupe - thanks @exbubba for providing the scripts
