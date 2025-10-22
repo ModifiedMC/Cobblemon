@@ -38,7 +38,8 @@ Jump to a Version:
 - [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
   
 ### REMOVED MODS
-- Cataclsym Spellbooks (causing issues with other necessary mod updates, will be back once resolved*)
+- Create Mechanical Extruder, Spawner (causing issues with other necessary mod updates, may be back once resolved*)
+- Cataclsym Spellbooks (causing issues with other necessary mod updates, may be back once resolved*)
 - ArmourersWorkshop (not compatible with LDL at this time, but will be reintroduced in the future*)
 - Sodium Dynamic Lights, Immersive Lanterns (replaced)
 - Valhesia Structure series - see note at bottom of this updates changes for more details
