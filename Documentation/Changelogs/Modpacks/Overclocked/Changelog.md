@@ -15,7 +15,7 @@ Jump to a Version:
 - [[v1.8.0]](https://github.com/ModifiedMC/Cobblemon/edit/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v180), [[v1.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v170), [[v1.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v160), [[v1.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v150), [[v1.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v140), [[v1.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v130), [[v1.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v120), [[v1.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Overclocked/Changelog.md#v110)
   
 ---
-# 1.11.1
+# [1.11.1]
 - Fixed network protocol disconnect on servers, added missing mods, removed mods supposed to be taken out last update
 - See more important updates / notes to server owners below!
    
