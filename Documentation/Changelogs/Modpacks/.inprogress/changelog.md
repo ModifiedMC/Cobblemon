@@ -19,3 +19,4 @@ https://bloom.modifiedmc.com
 
 ### REMOVED MODS
 - Desired Servers
+- ProbeJS
