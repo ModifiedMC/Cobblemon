@@ -15,6 +15,36 @@ Jump to a Version:
 - [[v11.8.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1180), [[v11.7.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1170), [[v11.6.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1160), [[v11.5.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1150), [[v11.4.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1140), [[v11.3.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1130), [[v11.2.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1120), [[v11.1.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1110), [[v11.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Plus/Changelog.md#v1100)
 
 ---
+# [11.11.0]
+### NEOFORGE VERSION IS NOW 21.1.211
+- New seasonal field research quests have been added! (20 new quests, the next field research will be added in roughly 4-5 weeks!)
+- Many mods were updated this release, fixing many longstanding bugs in mods such as; Accessories, Artifacts, Ars Nouveau, Botany Pots, KubeJS, MineColonies, Tectonic, Create Addons, as well as updates to many of our cobblemon addons; Raid Dens, Fight or Flight, Unchained, & more!
+ - Several QOL Updates, Fixed issues with serverpack/variables.txt, New leadboard system to track/compare stats with friends, Enabled Silktouch dropping spawners, More info in JEI for loot tables, Better Biome Block Blending, Significant Performance Improvements, etc
+  - Introduced a new [Spawn Chaining](https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-chaining) mechanic, where the actual rate of spawns increases when chaining mons. The other shiny, nature, & other stat bonuses still apply for their respective KO / catch streak or totals.
+  - Increased worldgen performance by ~30% (tectonic), removal of borked structures, optimized rendering of entities & graphics through flywheel, networking fixes, and reduced hud updates - drastically improving performance overall in many aspects of the modpack.
+  - Updated cobbreeding to use the Masuda Methood again -  If the two pokemon making an egg belong to different trainers, the shiny rate will be multiplied significantly (odds are roughly 1/2700 instead of 1/8192)
+### NOTICE TO SERVER OWNERS:
+  - Even though there were structures mods removed, **a new world is not necessary** but recommended - moogs structures will stay since they use vanilla blocks, but the VS blocks will be converted to air, I have hopefully removed all logspam associated to this change and it is safe to update from previous versions.
+  - Changed some settings on Server Core optimizing many areas of spawning, and also allowing for more total hostiles improving mob farms but server owners please note you may need to tone this back depending on your total number of active players
+
+### ADDED MODS
+- [Leaderboards](https://www.curseforge.com/minecraft/mc-mods/leaderboards)
+- [Vanillin](https://www.curseforge.com/minecraft/mc-mods/vanillin)
+- [Colorwheel](https://www.curseforge.com/minecraft/mc-mods/colorwheel)
+- [Krypton FNP](https://www.curseforge.com/minecraft/mc-mods/krypton-fnp)
+- [Spawn Chaining](https://www.curseforge.com/minecraft/mc-mods/cobblemon-spawn-chaining)
+- [Advanced Loot Info](https://www.curseforge.com/minecraft/mc-mods/advanced-loot-info)
+- [Better Biome Reblend](https://www.curseforge.com/minecraft/mc-mods/bbrb)
+- [LambDynamicLights](https://www.curseforge.com/minecraft/mc-mods/lambdynamiclights)
+  
+### REMOVED MODS
+- Create Mechanical Extruder, Spawner (causing issues with other necessary mod updates, may be back once resolved*)
+- ArmourersWorkshop (not compatible with LDL at this time, but will be reintroduced in the future*)
+- Sodium Dynamic Lights, Immersive Lanterns (replaced)
+- Valhesia Structure series - see note at bottom of this updates changes for more details
+- Moogs structure series - causing world gen issues, and taking up valuable structure placement from better structures in the modpacks, thanks for your community feedback !
+  
+---
 # [11.10.2]
 - Fixed client / server mod list sync
 - Fixed enchanted book / redstone dupe - thanks @exbubba for providing the scripts
