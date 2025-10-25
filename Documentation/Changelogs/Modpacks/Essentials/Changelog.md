@@ -18,7 +18,8 @@ Jump to a Version:
 - [[v1.0.2]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v102), [[v1.0.1]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v101), [[v1.0.0]](https://github.com/ModifiedMC/Cobblemon/blob/main/Documentation/Changelogs/Modpacks/Essentials/changelog.md#v100)
 
 ---
-# [1.7.1]
+# [1.7.1/2]
+- Turned off menu blur breaking some mods menus (ie. shaders)
 - Fixed network protocol disconnect on servers, added missing mods, removed mods supposed to be taken out last update
 - See more important updates / notes to server owners below!
  
